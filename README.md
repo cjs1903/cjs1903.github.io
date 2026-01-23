@@ -22,7 +22,7 @@
     This semester I am taking 4.5 units, but in my spare time I enjoy playing guitar and board games.</P>
 <P>Go Brits!</P>
 <P>References:</P>
-<P><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=24s">About Me</a></P>
+<P><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">About Me</a></P>
 <P><a href="https://www.albion.edu/">Albion College</a></P>
 <P><a href="https://en.wikipedia.org/wiki/Actuarial_science"> Actuarial Science</a></P>
 <img src="https://www.albion.edu/wp-content/uploads/2022/11/lux-fiat-900x600-1-900x600.png"
