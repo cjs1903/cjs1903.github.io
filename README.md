@@ -2,13 +2,13 @@
 <head>
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Alex+Brush&family=Gravitas+One&display=swap" rel="stylesheet">
 <meta charset="utf-8">
 <title>Charlie Sexton</title>
     <style>
         Body{background-color:darkgray;
         color:blueviolet;}
-        h1{color:gold;text-align-last:center;font-size: 500em; font-family: "Alex Brush",cursive;font-weight: 400;font-style: normal;}
+        h1{color:gold;text-align-last:center;font-size: 50;font-family: "Alex Brush", cursive;font-weight: 400;font-style: normal;}
         h2{color:white;text-align-last:center;font-size:500em;
         font-variant:small-caps;
         font-style:italic; font-family: "Gravitas One", serif;font-weight: 400;font-style: normal;}
