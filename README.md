@@ -1,5 +1,3 @@
-title: Octocat's homepage
-<!doctype html>
 <html lang="en">
 <head>
     <link rel="preconnect" href="https://fonts.googleapis.com">
