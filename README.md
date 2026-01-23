@@ -1,4 +1,3 @@
-# cjs1903.github.io
 
 <html lang="en">
 <head>
