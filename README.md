@@ -8,8 +8,8 @@
     <style>
         Body{background-color:darkgray;
         color:blueviolet;}
-        h1{color:gold;text-align-last:center;font-size: 100px; font-family: "Alex Brush", cursive;font-weight: 400;font-style: normal;}
-        h2{color:white;text-align-last:center;font-size:50px;
+        h1{color:gold;text-align-last:center;font-size: 500em; font-family: "Alex Brush", cursive;font-weight: 400;font-style: normal;}
+        h2{color:white;text-align-last:center;font-size:500em;
         font-variant:small-caps;
         font-style:italic; font-family: "Gravitas One", serif;font-weight: 400;font-style: normal;}
         P{text-align-last:center; color:darkmagenta;font-size: 1.5em}</style>
