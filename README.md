@@ -27,6 +27,12 @@
             font-weight: 500;
             cursor: pointer; 
         }
+        .button:hover {
+            background: #008168;
+        }
+        .button:active {
+            background: #006e58;
+        }
     </style>
 </head>
 <body>
