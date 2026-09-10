@@ -12,7 +12,22 @@
         h2{color:white;text-align-last:center;font-size:2.5em !important;
         font-variant:small-caps;
         font-style:italic; font-family: "Gravitas One", serif;font-weight: 400;font-style: normal;}
-        P{text-align-last:center; color:darkmagenta;font-size: 1.5em}</style>
+        P{text-align-last:center; color:darkmagenta;font-size: 1.5em}
+        .button{
+            display: inline-flex;
+            height: 50px;
+            padding: 0;
+            background:#009578;
+            border: none;
+            outline: none;
+            border-radius: 5px;
+            overflow: hidden;
+            font-family: 'Quicksand', sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+            cursor: pointer; 
+        }
+    </style>
 </head>
 <body>
     <h1>Charlie Sexton</h1>
