@@ -32,6 +32,19 @@
         }
         .button:active {
             background: #006e58;
+        } 
+        .button__text,
+        .button__icon{
+            display: inline-flex;
+            align-items: center;
+            padding: 0 24px;
+            color: #fff;
+            height: 100%;
+        }
+
+        .button__icon{
+            font-size: 1.5em;
+            background: rgba(0,0,0,0.08);
         }
     </style>
 </head>
