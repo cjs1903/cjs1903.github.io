@@ -70,5 +70,13 @@
         
     </button>
     <script type="module"             src="https://unpkg.com/ionicons@8.0.13/dist/ionicons/ionicons.esm.js"></script>
+    <button onclick="showMessage()">Click Me</button>
+
+    <script>
+    function showMessage() {
+    alert("Button was clicked!");
+    }
+    </script>
+
 </body>
 </html>
