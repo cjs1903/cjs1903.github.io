@@ -80,6 +80,6 @@
     alert("Button was clicked!");
     }
     </script>
-
+    <button id="downloadBtn">Download My File</button>
 </body>
 </html>
