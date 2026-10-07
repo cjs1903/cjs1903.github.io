@@ -67,7 +67,6 @@
         <span class="button__icon">
             <ion-icon name="help-circle-outline"></ion-icon>
         </span>
-        
     </button>
     <script type="module" src="https://unpkg.com/ionicons@8.0.13/dist/ionicons/ionicons.esm.js">
         function showMessage() {alert("Button was clicked!");}
