@@ -81,5 +81,6 @@
     }
     </script>
     <button id="downloadBtn">Download My File</button>
+    <script src="java-test.js"></script>
 </body>
 </html>
