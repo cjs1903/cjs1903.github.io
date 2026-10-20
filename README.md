@@ -62,15 +62,7 @@
 <img src="https://www.albion.edu/wp-content/uploads/2022/11/lux-fiat-900x600-1-900x600.png"
      alt="Albion Logo"
      style="width:100%;">
-    <button type="button" class="button"  onclick="showMessage()">
-        <span class="button__text">Download</span>
-        <span class="button__icon">
-            <ion-icon name="help-circle-outline"></ion-icon>
-        </span>
-    </button>
-    <script type="module" src="https://unpkg.com/ionicons@8.0.13/dist/ionicons/ionicons.esm.js">
-        function showMessage() {alert("Button was clicked!");}
-    </script>
+
 
     <button id="downloadBtn" type="button" class="button">
         <span class="button__text">Download</span>
