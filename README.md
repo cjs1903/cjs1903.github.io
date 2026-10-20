@@ -72,14 +72,6 @@
         function showMessage() {alert("Button was clicked!");}
     </script>
 
-    
-    <button onclick="showMessage()">Click Me</button>
-
-    <script>
-    function showMessage() {
-    alert("Button was clicked!");
-    }
-    </script>
     <button id="downloadBtn" type="button" class="button">
         <span class="button__text">Download</span>
         <span class="button__icon">
