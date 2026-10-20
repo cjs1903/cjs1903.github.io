@@ -70,6 +70,7 @@
             <ion-icon name="help-circle-outline"></ion-icon>
         </span>
     </button>
-    <script src="java-test.js"></script>
+    <script src="java-test.js" type="module" src="https://unpkg.com/ionicons@8.0.13/dist/ionicons/ionicons.esm.js">            </script>
+    
 </body>
 </html>
