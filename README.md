@@ -80,7 +80,7 @@
     alert("Button was clicked!");
     }
     </script>
-    <button id="downloadBtn" type="button">
+    <button id="downloadBtn" type="button" class="button">
         <span class="button__text">Download</span>
         <span class="button__icon">
             <ion-icon name="help-circle-outline"></ion-icon>
