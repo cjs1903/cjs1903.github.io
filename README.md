@@ -80,7 +80,12 @@
     alert("Button was clicked!");
     }
     </script>
-    <button id="downloadBtn">Download My File</button>
+    <button id="downloadBtn" type="button">
+        <span class="button__text">Download</span>
+        <span class="button__icon">
+            <ion-icon name="help-circle-outline"></ion-icon>
+        </span>
+    </button>
     <script src="java-test.js"></script>
 </body>
 </html>
